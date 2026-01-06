@@ -41,6 +41,7 @@ This project helped me improve my **logical thinking, patience, and attention to
 ## How to Run the Project
 
 Step 1: Clone the repository  
+```bash
 git clone https://github.com/sanjeetworld/ascii-art-generator-python.git
 
 Step 2: Open the project folder  
