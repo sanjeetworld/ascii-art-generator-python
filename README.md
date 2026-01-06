@@ -42,4 +42,4 @@ This project helped me improve my **logical thinking, patience, and attention to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ascii-art-generator-python.git
+   git clone https://github.com/sanjeetyt/ascii-art-generator-python.git
