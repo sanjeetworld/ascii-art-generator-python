@@ -41,7 +41,7 @@ This project helped me improve my **logical thinking, patience, and attention to
 ## How to Run the Project
 
 Step 1: Clone the repository  
-git clone https://github.com/your-username/ascii-art-generator-python.git
+git clone https://github.com/sanjeetworld/ascii-art-generator-python.git
 
 Step 2: Open the project folder  
 cd ascii-art-generator-python
