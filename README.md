@@ -40,14 +40,13 @@ This project helped me improve my **logical thinking, patience, and attention to
 
 ## How to Run the Project
 
-Step 1: Clone the repository:
-   ```bash
-   git clone https://github.com/sanjeetworld/ascii-art-generator-python.git
+Step 1: Clone the repository  
+git clone https://github.com/your-username/ascii-art-generator-python.git
 
-Step 2: Open the project folder
+Step 2: Open the project folder  
 cd ascii-art-generator-python
 
-Step 3: Run the Python file
+Step 3: Run the Python file  
 python BreneBrown.py
 
 Make sure Python is installed on your system.
